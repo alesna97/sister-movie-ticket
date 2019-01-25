@@ -11,6 +11,11 @@
 |
 */
 
-Route::get('/', 'HomeController@index')->name('index');
+Route::get('/', 'HomeController@homePage')->name('home-page');
+Route::get('/now-showing', 'HomeController@nowShowing')->name('nowshowing');
 
 Route::resource('ticket', 'TicketController');
+
+Auth::routes();
+Route::get('/home', 'HomeController@index')->name('home');
+
