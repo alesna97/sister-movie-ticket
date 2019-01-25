@@ -12,3 +12,5 @@
 */
 
 Route::get('/', 'HomeController@index')->name('index');
+
+Route::resource('ticket', 'TicketController');
