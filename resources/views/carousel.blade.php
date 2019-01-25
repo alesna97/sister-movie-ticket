@@ -18,8 +18,7 @@
     <div class="carousel-item">
       <img src="https://i.ytimg.com/vi/a2UEHMT8P-k/maxresdefault.jpg" alt="How To Train Your Dragon" width="1100" height="500">
     </div>
-  </div>
-  
+  </div> 
   <!-- Left and right controls -->
   <a class="carousel-control-prev" href="#demo" data-slide="prev">
     <span class="carousel-control-prev-icon"></span>
