@@ -1,0 +1,1080 @@
+{
+    "films": [
+        {
+            "film_id": 240900,
+            "imdb_id": 6823368,
+            "film_name": "Glass",
+            "other_titles": {
+                "EN": "Glass"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2019-01-18",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/15.png",
+                    "age_advisory": "infrequent strong violence, bloody images"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/240900_uk_high.mp4",
+            "synopsis_long": "From Unbreakable, Bruce Willis returns as David Dunn as does Samuel L. Jackson as Elijah Price, known also by his pseudonym Mr. Glass. Joining from Split are James McAvoy, reprising his role as Kevin Wendell Crumb and the multiple identities who reside within, and Anya Taylor-Joy as Casey Cooke, the only captive to survive an encounter with The Beast. Following the conclusion of Split, Glass finds Dunn pursuing Crumb's superhuman figure of The Beast in a series of escalating encounters, while the shadowy presence of Price emerges as an orchestrator who holds secrets critical to both men.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/240900/240900h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/240900/240900h2.jpg",
+                            "width": 300,
+                            "height": 199
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 230604,
+            "imdb_id": 3385524,
+            "film_name": "Stan and Ollie",
+            "release_dates": [
+                {
+                    "release_date": "2019-01-11",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/pg.png",
+                    "age_advisory": "mild bad language"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/230604_uk_high.mp4",
+            "synopsis_long": "Laurel & Hardy, one of the world's great comedy teams, set out on a variety hall tour of Britain in 1953. Diminished by age and with their golden era as the kings of Hollywood comedy now behind them, they face an uncertain future. As the charm and beauty of their performances shines through, they re-connect with their adoring fans. The tour becomes a hit, but Stan & Ollie can't quite shake the specter of Laurel and Hardy's past; the long-buried ghosts, coupled with Oliver's failing health, start to threaten their precious partnership. A portrait of the most tender and poignant of creative marriages, they are aware that they may be approaching their swan song, trying to rediscover just how much they mean to each other.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/230604/230604h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/230604/230604h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 256012,
+            "imdb_id": 2328900,
+            "film_name": "Mary, Queen of Scots",
+            "other_titles": {
+                "EN": "Mary Queen of Scots"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2019-01-18",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/15.png",
+                    "age_advisory": "strong violence, sex, sexual violence"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/256012_uk_high.mp4",
+            "synopsis_long": "Mary Queen of Scots explores the turbulent life of the charismatic Mary Stuart. Queen of France at 16 and widowed at 18, Mary defies pressure to remarry. Instead, she returns to her native Scotland to reclaim her rightful throne. But Scotland and England fall under the rule of the compelling Elizabeth 1.  Each young Queen beholds her \"sister\" in fear and fascination. Rivals in power and in love, and female regents in a masculine world, the two must decide how to play the game of marriage versus independence. Determined to rule as much more than a figurehead, Mary asserts her claim to the English throne, threatening Elizabeth's sovereignty. Betrayal, rebellion, and conspiracies within each court imperil both thrones - and change the course of history.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/256012/256012h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/256012/256012h2.jpg",
+                            "width": 300,
+                            "height": 199
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 264825,
+            "imdb_id": 5083738,
+            "film_name": "The Favourite",
+            "other_titles": {
+                "EN": "The Favourite"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-12-26",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/15.png",
+                    "age_advisory": "very strong language, strong sex"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/264825_uk_high.mp4",
+            "synopsis_long": "Early 18th century.  England is at war with the French.  Nevertheless, duck racing and pineapple eating are thriving.  A frail Queen Anne occupies the throne and her close friend Lady Sarah governs the country in her stead while tending to Anne's ill health and mercurial temper. When a new servant Abigail arrives, her charm endears her to Sarah.  Sarah takes Abigail under her wing and Abigail sees a chance at a return to her aristocratic roots.  As the politics of war become quite time consuming for Sarah, Abigail steps into the breach to fill in as the Queen's companion.  Their burgeoning friendship gives her a chance to fulfil her ambitions and she will not let woman, man, politics or rabbit stand in her way.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/264825/264825h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/264825/264825h2.jpg",
+                            "width": 300,
+                            "height": 199
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 233820,
+            "imdb_id": 5028340,
+            "film_name": "Mary Poppins Returns",
+            "other_titles": {
+                "EN": "Mary Poppins Returns"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-12-21",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/u.png",
+                    "age_advisory": "very mild threat"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/233820_uk_high.mp4",
+            "synopsis_long": "The film is set in 1930s depression-era London (the time period of the original novels) and is drawn from the wealth of material in PL Travers' additional seven books. In the story, Michael (Whishaw) and Jane (Mortimer) are now grown up, with Michael, his three children and their housekeeper, Ellen (Walters), living on Cherry Tree Lane. After Michael suffers a personal loss, the enigmatic nanny Mary Poppins (Blunt) re-enters the lives of the Banks family, and, along with the optimistic street lamplighter Jack (Miranda), uses her unique magical skills to help the family rediscover the joy and wonder missing in their lives. Mary Poppins also introduces the children to a new assortment of colorful and whimsical characters, including her eccentric cousin, Topsy (Streep).",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/233820/233820h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/233820/233820h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 254984,
+            "imdb_id": 4701182,
+            "film_name": "Bumblebee",
+            "other_titles": {
+                "EN": "Bumblebee"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-12-26",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/pg.png",
+                    "age_advisory": "moderate fantasy violence, mild sex references, injury detail, language"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/254984_uk_high.mp4",
+            "synopsis_long": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie (Hailee Steinfeld), on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary, yellow VW bug. ",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/254984/254984h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/254984/254984h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 249928,
+            "imdb_id": 1727824,
+            "film_name": "Bohemian Rhapsody",
+            "other_titles": {
+                "EN": "Bohemian Rhapsody"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-10-24",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "12A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/12a.png",
+                    "age_advisory": "moderate sex references, drug references, infrequent strong language"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/249928_uk_high.mp4",
+            "synopsis_long": "Bohemian Rhapsody is a foot-stomping celebration of Queen, their music and their extraordinary lead singer Freddie Mercury, who defied stereotypes and shattered convention to become one of the most beloved entertainers on the planet. The film traces the meteoric rise of the band through their iconic songs and revolutionary sound, their near-implosion as Mercury's lifestyle spirals out of control, and their triumphant reunion on the eve of Live Aid, where Mercury, facing a life-threatening illness, leads the band in one of the greatest performances in the history of rock music. In the process, cementing the legacy of a band that were always more like a family, and who continue to inspire outsiders, dreamers and music lovers to this day.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/249928/249928h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/249928/249928h2.jpg",
+                            "width": 300,
+                            "height": 199
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 197405,
+            "imdb_id": 1477834,
+            "film_name": "Aquaman",
+            "other_titles": {
+                "EN": "Aquaman"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-12-12",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "12A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/12a.png",
+                    "age_advisory": "moderate violence, scenes of sustained threat"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/197405_uk_high.mp4",
+            "synopsis_long": "The film reveals the origin story of half-human, half-Atlantean Arthur Curry and takes him on the journey of his lifetime - one that will not only force him to face who he really is, but to discover if he is worthy of who he was born to be... a king.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/197405/197405h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/197405/197405h2.jpg",
+                            "width": 300,
+                            "height": 199
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 267184,
+            "imdb_id": 1226837,
+            "film_name": "Beautiful Boy",
+            "other_titles": {
+                "EN": "Beautiful Boy"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2019-01-18",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/15.png",
+                    "age_advisory": "drug misuse, frequent drug references, strong language, sex"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/267184_uk_high.mp4",
+            "synopsis_long": "Based on the best-selling pair of memoirs from father and son David and Nic Sheff, Beautiful Boy chronicles the heartbreaking and inspiring experience of survival, relapse, and recovery in a family coping with addiction over many years.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/267184/267184h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/267184/267184h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 263659,
+            "imdb_id": 4633694,
+            "film_name": "Spider-Man: Into the Spider-Verse",
+            "other_titles": {
+                "EN": "Spider-Man: Into the Spider-Verse"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-12-12",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/pg.png",
+                    "age_advisory": "moderate fantasy violence, mild threat, injury detail, innuendo"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/263659_uk_high.mp4",
+            "synopsis_long": "Spider-Man: Into the Spider-Verse introduces Brooklyn teen Miles Morales, and the limitless possibilities of the Spider-Verse, where more than one can wear the mask.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/263659/263659h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/263659/263659h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 252727,
+            "imdb_id": 1987680,
+            "film_name": "The Upside",
+            "release_dates": [
+                {
+                    "release_date": "2019-01-11",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "12A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/12a.png",
+                    "age_advisory": "scenes of drug misuse, moderate sex references, language"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/252727_uk_high.mp4",
+            "synopsis_long": "Inspired by a true story, The Upside is a heartfelt comedy about a recently paroled ex-convict (Kevin Hart) who strikes up an unusual and unlikely friendship with a paralyzed billionaire (Bryan Cranston).",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/252727/252727h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/252727/252727h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 164750,
+            "imdb_id": 5848272,
+            "film_name": "Ralph Breaks the Internet: Wreck-It Ralph 2",
+            "other_titles": {
+                "EN": "Ralph Breaks the Internet"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-11-30",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/pg.png",
+                    "age_advisory": "mild threat, rude humour"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/164750_uk_high.mp4",
+            "synopsis_long": "Video-game bad guy Ralph and best friend Vanellope von Schweetz  leave the comforts of Litwak's arcade in an attempt to save her game, Sugar Rush. Their quest takes them to the vast, uncharted world of the internet where they rely on the citizens of the internet \"the Netizens\" to help navigate their way. Lending a virtual hand are Yesss, the head algorithm and the heart and soul of the trend-making site \"BuzzzTube,\" and Shank, a tough-as-nails driver from a gritty online auto-racing game called Slaughter Race, a place Vanellope wholeheartedly embraces - so much so that Ralph worries he may lose the only friend he's ever had.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/164750/164750h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/164750/164750h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 263829,
+            "imdb_id": 5437928,
+            "film_name": "Colette",
+            "other_titles": {
+                "EN": "Colette"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2019-01-09",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/15.png",
+                    "age_advisory": "sexual scenes, nudity"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/263829_uk_high.mp4",
+            "synopsis_long": "After marrying a successful Parisian writer known commonly as 'Willy' (Dominic West), Sidonie-Gabrielle Colette (Keira Knightley) is transplanted from her childhood home in rural France to the intellectual and artistic splendor of Paris. Soon after, Willy convinces Colette to ghostwrite for him. She pens a semi-autobiographical novel about a witty and brazen country girl named Claudine, sparking a bestseller and a cultural sensation. After its success, Colette and Willy become the talk of Paris and their sexual adventures with other women inspire additional Claudine novels. Colette's fight over creative ownership and gender roles drives her to overcome societal constraints, revolutionizing literature, fashion and sexual expression.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/263829/263829h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/263829/263829h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 279424,
+            "imdb_id": 7961060,
+            "film_name": "Dragon Ball Super: Broly",
+            "release_dates": [
+                {
+                    "release_date": "2019-01-23",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/pg.png",
+                    "age_advisory": "moderate fantasy violence, mild bad language"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/279424_uk_high.mp4",
+            "synopsis_long": "A planet destroyed, a powerful race reduced to nothing. After the devastation of Planet Vegeta, three Saiyans were scattered among the stars, destined for different fates. While two found a home on Earth, the third was raised with a burning desire for vengeance and developed an unbelievable power. And the time for revenge has come. Destinies collide in a battle that will shake the universe to its very core!\n\nGoku is back to training hard so he can face the most powerful foes the universes have to offer, and Vegeta is keeping up right beside him. But when they suddenly find themselves against an unknown Saiyan, they discover a terrible, destructive force.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/279424/279424h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 261374,
+            "imdb_id": 0,
+            "film_name": "Hey Duggee Program",
+            "release_dates": [
+                {
+                    "release_date": "2019-01-18",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/u.png",
+                    "age_advisory": "no material likely to offend or harm"
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Join Duggee and the Squirrels for the first time on the big screen for one big hour of woofs, sing-a-longs and fun! Featuring brand new episodes and exclusive interactive content for your little Squirrel to dance, sing and groove along with Duggee and the Squirrels",
+            "images": {}
+        },
+        {
+            "film_id": 254314,
+            "imdb_id": 5523010,
+            "film_name": "The Nutcracker and the Four Realms",
+            "other_titles": {
+                "EN": "The Nutcracker and the Four Realms"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-11-02",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/pg.png",
+                    "age_advisory": "mild threat"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/254314_uk_high.mp4",
+            "synopsis_long": "All Clara (Mackenzie Foy) wants is a key - a one-of-a-kind key that will unlock a box that holds a priceless gift from her late mother. A golden thread, presented to her at godfather Drosselmeyer's (Morgan Freeman) annual holiday party, leads her to the coveted key, which promptly disappears into a strange and mysterious parallel world. It's there that Clara encounters a soldier named Phillip (Jayden Fowora-Knight), a gang of mice and the regents who preside over three Realms: Land of Snowflakes, Land of Flowers and Land of Sweets. Clara and Phillip must brave the ominous Fourth Realm, home to the tyrant Mother Ginger (Helen Mirren), to retrieve Clara's key and hopefully return harmony to the unstable world.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/254314/254314h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/254314/254314h2.jpg",
+                            "width": 300,
+                            "height": 199
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 261090,
+            "imdb_id": 6343314,
+            "film_name": "Creed 2",
+            "other_titles": {
+                "EN": "Creed II"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-11-30",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "12A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/12a.png",
+                    "age_advisory": "moderate violence, language"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/261090_uk_high.mp4",
+            "synopsis_long": "Life has become a balancing act for Adonis Creed. Between personal obligations and training for his next big fight, he is up against the challenge of his life. Facing an opponent with ties to his family's past only intensifies his impending battle in the ring. Rocky Balboa is there by his side through it all and, together, Rocky and Adonis will confront their shared legacy, question what's worth fighting for, and discover that nothing's more important than family. Creed II is about going back to basics to rediscover what made you a champion in the first place, and remembering that, no matter where you go, you can't escape your history.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/261090/261090h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/261090/261090h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 180055,
+            "imdb_id": 2709692,
+            "film_name": "The Grinch",
+            "other_titles": {
+                "EN": "Dr. Seuss' The Grinch"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-11-09",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "U ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/u.png",
+                    "age_advisory": "mild slapstick, very mild bad language"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/180055_uk_high.mp4",
+            "synopsis_long": "The Grinch tells the story of a cynical grump who goes on a mission to steal Christmas, only to have his heart changed by a young girl's generous holiday spirit. Funny, heartwarming and visually stunning, it's a universal story about the spirit of Christmas and the indomitable power of optimism.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/180055/180055h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/180055/180055h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 246043,
+            "imdb_id": 1255919,
+            "film_name": "Holmes and Watson",
+            "other_titles": {
+                "EN": "Holmes and Watson"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-12-26",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "12A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/12a.png",
+                    "age_advisory": "moderate sex references, drug references, infrequent strong language"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/246043_uk_high.mp4",
+            "synopsis_long": "The Step Brothers are reunited - this time playing the world's greatest consulting detective and his loyal biographer - as Will Ferrell and John C. Reilly star as Holmes & Watson.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/246043/246043h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/246043/246043h2.jpg",
+                            "width": 300,
+                            "height": 199
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 241805,
+            "imdb_id": 1517451,
+            "film_name": "A Star Is Born",
+            "other_titles": {
+                "EN": "A Star is Born"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-10-03",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/15.png",
+                    "age_advisory": "strong language, drug misuse"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/241805_uk_high.mp4",
+            "synopsis_long": "In this new take on the tragic love story, he plays seasoned musician Jackson Maine, who discovers - and falls in love with - struggling artist Ally (Gaga). She has just about given up on her dream to make it big as a singer, until Jack coaxes her into the spotlight.  But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/241805/241805h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/241805/241805h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 197406,
+            "imdb_id": 4123430,
+            "film_name": "Fantastic Beasts: The Crimes of Grindelwald",
+            "other_titles": {
+                "EN": "Fantastic Beasts: The Crimes of Grindelwald"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2018-11-16",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "12A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/12a.png",
+                    "age_advisory": "moderate fantasy threat"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/197406_uk_high.mp4",
+            "synopsis_long": "At the end of the first film, the powerful Dark wizard Gellert Grindelwald (Depp) was captured by MACUSA (Magical Congress of the United States of America), with the help of Newt Scamander (Redmayne).  But, making good on his threat, Grindelwald escaped custody and has set about gathering followers, most unsuspecting of his true agenda: to raise pure-blood wizards up to rule over all non-magical beings.  \n\nIn an effort to thwart Grindelwald's plans, Albus Dumbledore (Law) enlists his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead.  Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/197406/197406h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/197406/197406h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 285067,
+            "imdb_id": 9493708,
+            "film_name": "Underdog",
+            "release_dates": [
+                {
+                    "release_date": "2019-01-18",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "15 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/15.png",
+                    "age_advisory": "very strong language, strong sex, violence, injury detail, drug misuse"
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Boris \"Kos\" Kosinski (Eryk Lubos) is a top MMA fighter. In the biggest battle of his life with his greatest rival, Denim Takaev (Mamed Khalidov), he makes a mistake that destroys his entire career. He loses everything. This failure brings him through a series of ups and downs, but it also pushes him to undertake a titanic effort to fight and win back respect and love.",
+            "images": {}
+        },
+        {
+            "film_id": 119237,
+            "imdb_id": 0,
+            "film_name": "The Royal Ballet: Romeo & Juliet",
+            "other_titles": {
+                "EN": "The Royal Ballet: Romeo and Juliet"
+            },
+            "release_dates": [
+                {
+                    "release_date": "2015-09-22",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "OTHER ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/other.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/119237_high.mp4",
+            "synopsis_long": "Kenneth MacMillan's famous version of Shakespeare's romantic tragedy set to Prokofiev's magnificent score returns to open the 2015/16 Royal Opera House Live Cinema Season. This Romeo and Juliet is rich in the swaggering colour of Verona street life and in sword fights and celebrations, but MacMillan's focus is always on the complex emotions of the young lovers - especially on Juliet as she journeys through the delirious happiness of first love to a shocked, adult perception of her fate. Juliet is one of the most coveted of all ballerina roles, and as MacMillan's ballet enters its 50th year it resonates as deeply with audiences today as when it was first seen half a century ago.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/119237/119237h1.jpg",
+                            "width": 199,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/119237/119237h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 10650,
+            "imdb_id": 57115,
+            "film_name": "The Great Escape",
+            "release_dates": [
+                {
+                    "release_date": "1963-05-31",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/pg.png",
+                    "age_advisory": "Contains mild language and violence"
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "The Great Escape is based on the true story of a group of Allied prisoners of war who managed to escape from an allegedly impenetrable Nazi prison camp during World War II. At the beginning of the film, the Nazis gather all their most devious and troublesome POWs and place them at a new prison camp, which was designed to be impervious to escapes. Immediately, the prisoners develop a scheme where they will leave the camp by building three separate escape tunnels. Richard Attenborough is the British soldier who masterminds the whole plan, and who commands his motley squad--featuring Charles Bronson as a Polish trench-digging expert, James Garner as an American with a talent for theft, Donald Pleasence as a masterful forger, and Steve McQueen as an American rebel--through the construction of the tunnels and, eventually, their escape. An epic adventure film, The Great Escape runs nearly three hours, featuring a rousing Elmer Bernstein score and exciting action sequences -- including a notorious motorcycle chase between McQueen and the Nazis -- the likes of which had never been seen before in Hollywood productions.~ Stephen Thomas Erlewine, All Movie Guide",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/10650/010650h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 277854,
+            "imdb_id": 7775622,
+            "film_name": "Free Solo",
+            "release_dates": [
+                {
+                    "release_date": "2018-12-14",
+                    "notes": "GBR"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "12A ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/uk/12a.png",
+                    "age_advisory": "infrequent strong language"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/277854_uk_high.mp4",
+            "synopsis_long": "FREE SOLO is an edge-of-your seat thriller and an inspiring portrait of an athlete who challenges both his body and his beliefs on a quest to triumph over the impossible, revealing the personal toll of excellence. As the climber begins his training, the armor of invincibility he's built up over decades unexpectedly breaks apart when Honnold begins to fall in love, threatening his focus and giving way to injury and setbacks. Vasarhelyi and Chin succeed in beautifully capturing deeply human moments with Honnold as well as the death-defying climb with exquisite artistry and masterful, vertigo-inducing camerawork.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/277854/277854h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/277854/277854h2.jpg",
+                            "width": 300,
+                            "height": 199
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "status": {
+        "count": 25,
+        "state": "OK",
+        "method": "filmsNowShowing",
+        "message": null,
+        "request_method": "GET",
+        "version": "UNIKv200",
+        "territory": "UK",
+        "device_datetime_sent": "20190124T143020+0700",
+        "device_datetime_used": "2019-01-24 14:30:20"
+    }
+}

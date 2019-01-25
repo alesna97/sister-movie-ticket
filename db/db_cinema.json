@@ -1,0 +1,215 @@
+{
+    "cinemas": [
+        {
+            "cinema_id": 9485,
+            "cinema_name": "ODEON Aylesbury",
+            "address": "The Exchange",
+            "city": "Aylesbury",
+            "postcode": "HP20 1UR",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 9495,
+            "cinema_name": "ODEON Huddersfield",
+            "address": "Galpharm Stadium",
+            "city": "Huddersfield",
+            "postcode": "HD1 6PG",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 31512,
+            "cinema_name": "ODEON Dorchester",
+            "address": "3 Drayhorse Yard",
+            "city": "Dorchester",
+            "postcode": "DT1 1GS",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 10527,
+            "cinema_name": "ODEON Newark",
+            "address": "23 London Road",
+            "city": "Newark on Trent",
+            "postcode": "NG24 1TN",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 11558,
+            "cinema_name": "ODEON Belfast",
+            "address": "No. 1 Victoria Square",
+            "city": "Belfast",
+            "postcode": "BT1 4QG",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 9530,
+            "cinema_name": "ODEON BFI IMAX Cinema",
+            "address": "1 Charlie Chaplin Walk",
+            "city": "London",
+            "postcode": "SE1 8XR",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8775,
+            "cinema_name": "ODEON Tunbridge Wells",
+            "address": "Knights Park Leisure Park",
+            "city": "Royal Tunbridge Wells",
+            "postcode": "TN2 3UW",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8776,
+            "cinema_name": "ODEON Bath",
+            "address": "Kingsmead Leisure Complex",
+            "city": "Bath",
+            "postcode": "BA1 2BX",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8779,
+            "cinema_name": "ODEON Bristol",
+            "address": "Union Street",
+            "city": "Bristol",
+            "postcode": "BS1 2DS",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8780,
+            "cinema_name": "ODEON Exeter",
+            "address": "Sidwell Street",
+            "city": "Exeter",
+            "postcode": "EX4 6PL",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8783,
+            "cinema_name": "ODEON Salisbury",
+            "address": "New Canal",
+            "city": "Salisbury",
+            "postcode": "SP1 2AA",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8784,
+            "cinema_name": "ODEON Southampton",
+            "address": "Leisure World",
+            "city": "Southampton",
+            "postcode": "SO15 1RE",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8785,
+            "cinema_name": "ODEON Taunton",
+            "address": "Heron Gate",
+            "city": "Taunton",
+            "postcode": "TA1 2LP",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8786,
+            "cinema_name": "ODEON Weston Super Mare",
+            "address": "The Centre",
+            "city": "Weston-Super-Mare",
+            "postcode": "BS23 1UR",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8787,
+            "cinema_name": "ODEON Bridgend",
+            "address": "McArthur Glen Designer Outlet",
+            "city": "Bridgend",
+            "postcode": "CF32 9ST",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8789,
+            "cinema_name": "ODEON Beckenham",
+            "address": "High Street",
+            "city": "Beckenham",
+            "postcode": "BR3 1DY",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8791,
+            "cinema_name": "ODEON Camden Town",
+            "address": "14 The Parkway",
+            "city": "London",
+            "postcode": "NW1 7AA",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8792,
+            "cinema_name": "ODEON Covent Garden",
+            "address": "135 Shaftesbury Avenue",
+            "city": "London",
+            "postcode": "WC2H 8AH",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 40792,
+            "cinema_name": "ODEON Milton Keynes Stadium & IMAX",
+            "address": "12 Stadium Way West",
+            "city": "Milton Keynes",
+            "postcode": "MK1 1ST",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8793,
+            "cinema_name": "ODEON Holloway",
+            "address": "419-427 Holloway Road",
+            "city": "London",
+            "postcode": "N7 6LJ",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8795,
+            "cinema_name": "ODEON Leicester Square",
+            "address": "24-26 Leicester Square",
+            "city": "London",
+            "postcode": "WC2H 7JY",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8797,
+            "cinema_name": "ODEON Luxe Haymarket",
+            "address": "11/18 Panton Street",
+            "city": "London",
+            "postcode": "SW1Y 4DP",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8798,
+            "cinema_name": "ODEON Swiss Cottage",
+            "address": "96 Finchley Road",
+            "city": "London",
+            "postcode": "NW3 5EL",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 8799,
+            "cinema_name": "ODEON Tottenham Court",
+            "address": "30 Tottenham Court Road",
+            "city": "London",
+            "postcode": "W1T 1BX",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 9057,
+            "cinema_name": "ODEON Loughborough",
+            "address": "Cattle Market",
+            "city": "Loughborough",
+            "postcode": "LE11 3DL",
+            "logo_url": "https://assets.movieglu.com/chain_logos/uk/UK-614-sq.jpg"
+        }
+    ],
+    "status": {
+        "count": 25,
+        "state": "OK",
+        "method": "cinemaLiveSearch",
+        "message": null,
+        "request_method": "GET",
+        "version": "UNIKv200",
+        "territory": "UK",
+        "device_datetime_sent": "20190124T143020+0700",
+        "device_datetime_used": "2019-01-24 14:30:20"
+    }
+}
