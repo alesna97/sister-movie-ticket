@@ -90,7 +90,7 @@
             </li>
 
             <li class="seat" style="margin-right: 40px"> 
-                <input type="checkbox" id=B5"/>
+                <input type="checkbox" id="B5"/>
                 <label for="B5">B5</label>
             </li>
 
