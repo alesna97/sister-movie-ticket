@@ -38,11 +38,10 @@ class HomeController extends Controller
     }
     public function nowShowing()
     {
-        
         $data['date'] = date('D, d-m-Y');
         $data['movies'] = DB::select('select * from tb_movie');
         return view('pages.nowshowing', $data);
     }
-
+    
 
 }

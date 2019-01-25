@@ -13,8 +13,9 @@
 
 Route::get('/', 'HomeController@homePage')->name('home-page');
 Route::get('/now-showing', 'HomeController@nowShowing')->name('nowshowing');
+Route::post('/add-order', 'TicketController@orderTicket')->name('order');
 
-Route::resource('ticket', 'TicketController');
+Route::post('/seat', 'TicketController@seat')->name('seat');
 
 Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');

@@ -17,7 +17,11 @@
                     <div class="card-body">
                      <h6 class="small">{{$movie->film_name}}</h6>
                      <p class="card-text"> </p>
-                     <a href="" class="btn btn-outline-success btn-sm"> <i class="fa fa-ticket"></i> Buy Ticket</a>
+                     <form action={{route('order')}} method="POST">
+                     {{ csrf_field() }}
+                     <input type="text" value={{$movie->film_id}} name="film_id" hidden>
+                     <button class="btn btn-outline-success btn-sm"> <i class="fa fa-ticket"></i> Buy Ticket</button>
+                     </form>
                     </div>
                 </div>
             </div>
